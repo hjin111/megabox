@@ -12,7 +12,7 @@ exerd
 <br>
 중요 쿼리<br>
 [영화 예매 쿼리]<br>
-![화면 캡처 2023-08-12 185552](https://github.com/hjin111/megabox/assets/127267658/8b7f31a9-fcc6-435f-8761-7204b3226bf1)<Br>
+![화면 캡처 2023-08-12 185552](https://github.com/hjin111/megabox/assets/127267658/8b7f31a9-fcc6-435f-8761-7204b3226bf1)<br>
 ![화면 캡처 2023-08-12 185637](https://github.com/hjin111/megabox/assets/127267658/048c9b0b-d11a-47cb-9afe-f97fcde063c0)<br>
 <br>
 [회원 쿠폰 목록 쿼리]<br>
