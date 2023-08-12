@@ -1,9 +1,9 @@
 # megabox
 
-1.요구분석서 url
+1.요구분석서 url : 
 https://docs.google.com/document/d/1XI0BO7y_G9jyPCp637M39V-IyCd7CsdY/edit?usp=drive_link&ouid=107889343710686560548&rtpof=true&sd=true
 <br>
-2.전체 pdf
+2.전체 pdf :
 https://drive.google.com/file/d/1HJXhgWWNUYDwtTQeX_hbUVSyiLdsa4f2/view?usp=drive_link
 <br>
 3.exerd
